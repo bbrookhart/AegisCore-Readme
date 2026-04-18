@@ -55,25 +55,6 @@ It is a **policy-enforced, approval-aware, audit-first control plane** for AI ag
 
 ---
 
-## Day 1 Scope
-
-Day 1 is about locking the scope and architecture.
-
-This repository currently defines:
-
-- the product vision
-- v1 scope boundaries
-- trust model
-- threat model
-- architecture principles
-- initial file structure
-- initial decision log
-- control mapping direction
-
-Day 1 does **not** include a production implementation.
-
----
-
 ## Core Principles
 
 ### 1. Deny by default
